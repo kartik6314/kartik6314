@@ -13,7 +13,7 @@
 
 ------
 Technologies I've been learning and using so far :
-<div style="list-style-type: none;">
+
 - Programming languages : <br />
       [![C++](https://img.shields.io/badge/-C++-eee?style=for-the-badge&logo=c%2B%2B&logoColor=blue)]()
     [![Java](https://img.shields.io/badge/-Java-eee?style=for-the-badge&logo=java&logoColor=red)]()
@@ -35,6 +35,6 @@ Technologies I've been learning and using so far :
     [![Git](http://img.shields.io/badge/-Git-eee?style=for-the-badge&logo=git&logoColor=F05032)]()
     [![Docker](https://img.shields.io/badge/-Docker-eee?style=for-the-badge&logo=docker&logoColor=430098)]()
 
-</div>
+
 ------
 
